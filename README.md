@@ -1,1 +1,1 @@
-Packt Course: The Complete Pythin Course[Video]
+Packt Course: The Complete Python Course[Video]
